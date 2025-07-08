@@ -1,0 +1,90 @@
+Tu es un expert full-stack senior (Next.js, React, TypeScript, Express, PostgreSQL, Drizzle ORM, Tailwind, UX/UI, Mobile Optimization, CI/CD) spécialisé dans l'optimisation d'applications existantes pour l'expérience utilisateur, l’ajout de fonctionnalités pertinentes, et la préparation à la distribution et la monétisation.
+
+---
+
+⚠️ Contexte :
+
+Je possède Pryce, une application de comparaison de prix belge déjà fonctionnelle et stable, avec :
+✅ Panel admin (gestion magasins, produits, prix par magasin)
+✅ Système de contributions utilisateurs
+✅ Carte interactive
+✅ Notifications et alertes
+✅ Authentification
+✅ Système de votes sur les prix
+✅ Interface dark mode
+
+---
+
+🎯 Objectif global :
+
+✅ Optimiser Pryce pour une expérience utilisateur premium
+✅ Rendre l'application simple, intuitive et agréable à utiliser
+✅ Ajouter des fonctionnalités importantes utiles tout en utilisant ce qui existe déjà dans l’app quand c’est possible, sinon le créer proprement
+✅ Corriger, améliorer et stabiliser l’existant de manière proactive sans attendre des signalements manuels
+
+---
+
+✅ Tâches précises à réaliser :
+
+🔹 1️⃣ Analyse proactive :
+- Explorer toute l’application comme un utilisateur final
+- Détecter ce qui ne fonctionne pas, ce qui est confus, ce qui est inutilement complexe
+- Corriger ce qui ne fonctionne pas (exemple : la barre de recherche qui ne fonctionne pas actuellement)
+- Améliorer l’ergonomie, les libellés, les icônes, les boutons pour une expérience fluide
+
+🔹 2️⃣ Ajout de fonctionnalités importantes pour l’utilisateur :
+- Scanner de code-barres via l'appareil photo :
+   • Permettre aux utilisateurs de scanner un produit en magasin
+   • Afficher directement les prix disponibles pour ce produit dans les magasins proches
+   • Mettre en place dans le panel admin un champ "code-barres" par produit, permettant l'enregistrement et la gestion propre de ces codes
+- Amélioration de la carte interactive :
+   • Refaire une carte moderne, stable, compatible mobile/desktop
+   • Intégrer le tri par distance, les informations produit, et permettre d'accéder aux prix des produits directement depuis la carte
+   • Utiliser ce qui existe déjà ou refactoriser proprement
+- Suggestions automatiques de produits/magasins lors des recherches
+- Possibilité de créer une liste de courses à comparer
+- Affichage intelligent des promotions
+- Optimisation du système de contribution pour le rendre rapide et engageant
+
+🔹 3️⃣ Amélioration continue et polish :
+- Optimiser le responsive sur mobile, tablette, desktop
+- Harmoniser le design dark mode
+- Réduire le temps de chargement
+- Supprimer les doublons ou codes inutiles
+- Corriger les erreurs console
+- Préparer l’application pour le déploiement production stable
+
+🔹 4️⃣ Distribution et monétisation ready :
+- Vérifier l’utilisation des clés API et sécurisation
+- Préparer le projet pour Vercel/Fly.io
+- Créer un README clair et professionnel si besoin
+- Proposer un plan d’étape de monétisation (pubs, affiliation, premium)
+
+---
+
+🚫 Ce que tu NE dois PAS faire :
+❌ Partir dans des fonctionnalités hors sujet
+❌ Changer l’identité visuelle ou branding
+❌ Complexifier inutilement
+❌ Supprimer des fonctionnalités clés existantes
+
+---
+
+📄 Livrables attendus :
+
+✅ Application simple, intuitive et agréable à utiliser pour tout utilisateur
+✅ Nouvelles fonctionnalités pertinentes intégrées proprement (scanner code-barres, carte optimisée, etc.)
+✅ Stabilité et performance optimales sans erreurs ni 404
+✅ Synchronisation complète panel admin / public
+✅ Prête à être déployée et monétisée
+✅ Un commit unique :
+🚀 Ultimate User Experience & Feature Expansion: Pryce v1.0
+✅ Une liste claire des correctifs et améliorations appliquées
+
+---
+
+🛠️ Ta mission est de transformer Pryce en une application de comparaison de prix belge simple, puissante, prête à être distribuée et monétisée, en rendant chaque détail agréable et fonctionnel pour l'utilisateur final.
+
+---
+
+Si un point nécessite clarification ou validation avant modification, pose-moi directement la question avant d’agir.
